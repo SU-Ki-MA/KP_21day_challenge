@@ -1,0 +1,22 @@
+*,*::before,*::after{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+p{
+  color: white;
+}
+h1{
+  color: white;
+  padding-bottom: 0.5em;
+}
+.container{
+  background-color: #203f4a;
+  margin: 0 auto;
+  width:80%;
+  padding:3em;
+}
+.child{
+  width:50%;
+}
